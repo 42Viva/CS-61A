@@ -1,4 +1,3 @@
-# CS61A3
 # CS61A-Structure-and-Interpretation-of-Computer-Programs
 
 ## 课程简介
