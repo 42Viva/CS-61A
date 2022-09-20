@@ -19,8 +19,8 @@
 - [x] [课程说明](https://inst.eecs.berkeley.edu/~cs61a/su20/articles/about.html)
 - [x] Lecture 1 Week 1
 - [x] LAB 00
-- [ ] Lecture 2 Week 1
-- [ ] HW 01
+- [x] Lecture 2 Week 1
+- [x] HW 01
 - [ ] Book ch 1.1、ch 1.2
 - [ ] Book ch 1.3、ch 1.4、ch 1.5（ch 1.5 最后介绍了文档测试的方法）
 - [ ] Lecture 3 Week 1
