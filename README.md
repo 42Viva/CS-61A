@@ -24,9 +24,9 @@
 - [ ] Book ch 1.1、ch 1.2
 - [ ] Book ch 1.3、ch 1.4、ch 1.5（ch 1.5 最后介绍了文档测试的方法）
 - [ ] Lecture 3 Week 1
-- [ ] LAB 01
+- [x] LAB 01
 - [ ] Lecture 4 Week 1
-- [ ] Disc 1
+- [x] Disc 1
 - [ ] HW 02
 - [ ] Book ch 1.6
 - [ ] Diagnostic Quiz Week 2
